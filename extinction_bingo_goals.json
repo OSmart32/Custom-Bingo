@@ -1,0 +1,300 @@
+[
+    {
+        "name": "Defeat Nivalis", "group": "Story", "stage": 1
+    },
+    {
+        "name": "Save the Orphanage", "group": "Story", "stage": 1
+    },
+    {
+        "name": "Catch 6 different Nexomon", "group": "Capture", "stage": 1
+    },
+    {
+        "name": "Catch 7 different Nexomon", "group": "Capture", "stage": 1
+    },
+    {
+        "name": "Catch 8 different Nexomon", "group": "Capture", "stage": 1
+    },
+    {
+        "name": "Evolve 3 different Nexomon", "group": "Evolve", "stage": 1
+    },
+    {
+        "name": "Evolve 4 different Nexomon", "group": "Evolve", "stage": 1
+    },
+    {
+        "name": "100 Reputation", "group": "Rep", "stage": 1
+    },
+    {
+        "name": "150 Reputation", "group": "Rep", "stage": 1
+    },
+    {
+        "name": "Destruction Core (I)", "group": "Craft", "stage": 1
+    },
+    {
+        "name": "Protection Core (I)", "group": "Craft", "stage": 1
+    },
+    {
+        "name": "Vitality Core (I)", "group": "Craft", "stage": 1
+    },
+    {
+        "name": "Immunity Core (I)", "group": "Craft", "stage": 1
+    },
+    {
+        "name": "Experience Core (I)", "group": "Craft", "stage": 1
+    },
+    {
+        "name": "Greed Core (I)", "group": "Craft", "stage": 1
+    },
+    {
+        "name": "Stamina Core (I)", "group": "Craft", "stage": 1
+    },
+    {
+        "name": "Synergy Core (I)", "group": "Craft", "stage": 1
+    },
+    {
+        "name": "Cosmic Charm", "group": "Charm", "stage": 1
+    },
+    {
+        "name": "2 Cosmic Charms", "group": "Charm", "stage": 1
+    },
+    {
+        "name": "Workout Charm", "group": "Charm", "stage": 1
+    },
+    {
+        "name": "Secret Sauce", "group": "Sauce", "stage": 1
+    },
+    {
+        "name": "2 Secret Sauces", "group": "Sauce", "stage": 1
+    },
+    {
+        "name": "Discount Voucher", "group": "Discount", "stage": 1
+    },
+    {
+        "name": "2 Discount Vouchers", "group": "Discount", "stage": 1
+    },
+    {
+        "name": "3 Discount Vouchers", "group": "Discount", "stage": 1
+    },
+    {
+        "name": "Experience Booster", "group": "ExBooster", "stage": 1
+    },
+    {
+        "name": "2 Experience Boosters", "group": "ExBooster", "stage": 1
+    },
+    {
+        "name": "3 Experience Boosters", "group":"ExBooster", "stage": 1
+    },
+    {
+        "name": "2 Vault Keys", "group": "Vault", "stage": 1
+    },
+    {
+        "name": "3 Vault Keys", "group": "Vault", "stage": 1
+    },
+    {
+        "name": "5,000 coins", "group": "Coins", "stage": 1
+    },
+    {
+        "name": "2 Companions", "group": "Companion", "stage": 1
+    },
+    {
+        "name": "3 Companions", "group": "Companion", "stage": 1
+    },
+    {
+        "name": "The Extinction Project", "stage": 1
+    },
+    {
+        "name": "Beautiful Param", "stage": 1
+    },
+    {
+        "name": "The Missing Kid", "stage": 1
+    },
+    {
+        "name": "Tech Support", "stage": 1
+    },
+    {
+        "name": "The Tree of Gifts", "stage": 1
+    },
+    {
+        "name": "The Lost Ring", "stage": 1
+    },
+    {
+        "name": "Running Shoes", "stage": 1
+    },
+    {
+        "name": "Vist the Frozen Tundra", "stage": 1
+    },
+    {
+        "name": "Catch a wild starter", "stage": 1
+    },
+    {
+        "name": "10 different foods", "stage": 1
+    },
+    {
+        "name": "50 Nexotraps", "stage": 1
+    },
+    {
+        "name": "100 shards", "stage": 1
+    },
+    {
+        "name": "3 whistles", "stage": 1
+    },
+
+
+
+
+
+    {
+        "name": "Citadel Under Attack", "group": "Story", "stage": 2
+    },
+    {
+        "name": "Defeat Alanta", "group": "Story", "stage": 2
+    },
+    {
+        "name": "Defeat Jin", "group": "Story", "stage": 2
+    },
+    {
+        "name": "Catch 9 different Nexomon", "group": "Capture", "stage": 2
+    },
+    {
+        "name": "Catch 10 different Nexomon", "group": "Capture", "stage": 2
+    },
+    {
+        "name": "Catch 11 different Nexomon", "group": "Capture", "stage": 2
+    },
+    {
+        "name": "Evolve 5 different Nexomon", "group": "Evolve", "stage": 2
+    },
+    {
+        "name": "Evolve 6 different Nexomon", "group": "Evolve", "stage": 2
+    },
+    {
+        "name": "200 Reputation", "group": "Rep", "stage": 2
+    },
+    {
+        "name": "250 Reputation", "group": "Rep", "stage": 2
+    },
+    {
+        "name": "Destruction Core (II)", "group": "Craft", "stage": 2
+    },
+    {
+        "name": "Protection Core (II)", "group": "Craft", "stage": 2
+    },
+    {
+        "name": "Vitality Core (II)", "group": "Craft", "stage": 2
+    },
+    {
+        "name": "Immunity Core (II)", "group": "Craft", "stage": 2
+    },
+    {
+        "name": "Experience Core (II)", "group": "Craft", "stage": 2
+    },
+    {
+        "name": "Greed Core (II)", "group": "Craft", "stage": 2
+    },
+    {
+        "name": "Stamina Core (II)", "group": "Craft", "stage": 2
+    },
+    {
+        "name": "Synergy Core (II)", "group": "Craft", "stage": 2
+    },
+    {
+        "name": "10,000 coins", "group": "Coins", "stage": 2
+    },
+    {
+        "name": "Liam's Stolen Letter", "stage": 2
+    },
+    {
+        "name": "Ultimate Antidote", "stage": 2
+    },
+    {
+        "name": "Relearn a move", "stage": 2
+    },
+    {
+        "name": "Heal at 3 different camps", "stage": 2
+    },
+
+
+
+
+
+    {
+        "name": "Defeat Dracon", "group": "Story", "stage": 3
+    },
+    {
+        "name": "Defeat Ventra", "group": "Story", "stage": 3
+    },
+    {
+        "name": "Defeat Lydia", "group": "Story", "stage": 3
+    },
+    {
+        "name": "Catch 13 different Nexomon", "group": "Capture", "stage": 3
+    },
+    {
+        "name": "Catch 14 different Nexomon", "group": "Capture", "stage": 3
+    },
+    {
+        "name": "Catch 15 different Nexomon", "group": "Capture", "stage": 3
+    },
+    {
+        "name": "Evolve 7 different Nexomon", "group": "Evolve", "stage": 3
+    },
+    {
+        "name": "Evolve 8 different Nexomon", "group": "Evolve", "stage": 3
+    },
+    {
+        "name": "300 Reputation", "group": "Rep", "stage": 3
+    },
+    {
+        "name": "350 Reputation", "group": "Rep", "stage": 3
+    },
+    {
+        "name": "Destruction Core (III)", "group": "Craft", "stage": 3
+    },
+    {
+        "name": "Protection Core (III)", "group": "Craft", "stage": 3
+    },
+    {
+        "name": "Vitality Core (III)", "group": "Craft", "stage": 3
+    },
+    {
+        "name": "Immunity Core (III)", "group": "Craft", "stage": 3
+    },
+    {
+        "name": "Experience Core (III)", "group": "Craft", "stage": 3
+    },
+    {
+        "name": "Greed Core (III)", "group": "Craft", "stage": 3
+    },
+    {
+        "name": "Stamina Core (III)", "group": "Craft", "stage": 3
+    },
+    {
+        "name": "Synergy Core (III)", "group": "Craft", "stage": 3
+    },
+    {
+        "name": "2 Greed Wallets", "group": "Wallet", "stage": 3
+    },
+    {
+        "name": "3 Greed Wallets", "group": "Wallet", "stage": 3
+    },
+    {
+        "name": "Healthy Charm", "group": "Charm", "stage": 3
+    },
+    {
+        "name": "2 Healthy Charms", "group": "Charm", "stage": 3
+    },
+    {
+        "name": "3 Healthy Charms", "group": "Charm", "stage": 3
+    },
+    {
+        "name": "15,000 coins", "group": "Coins", "stage": 3
+    },
+    {
+        "name": "Turning Up The Heat", "stage": 3
+    },
+    {
+        "name": "Thieves Of The Tundra", "stage": 3
+    },
+    {
+        "name": "Ultra Pickaxe", "stage": 3
+    }
+]
